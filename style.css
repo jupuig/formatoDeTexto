@@ -1,0 +1,33 @@
+#darthVaderName {
+    font-size: 40px;
+}
+
+#lukeName {
+    font-style: italic;
+}
+
+
+.imperio {
+    background-color: red;
+}
+
+.rebeldes {
+    background-color: blue;
+}
+
+.soldados {
+    border:3px dashed black;
+}
+
+.soldadosEspacio {
+    letter-spacing: 5px;
+}
+
+.unidadesApoyo {
+    text-align: center;
+}
+
+.naves {
+    text-transform: capitalize;
+}
+
